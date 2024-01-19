@@ -94,14 +94,14 @@
     display: block;
     /* left: -1rem; */
     position: absolute;
-    /* left: 10rem; */
+    left: -2rem;
     top: 5rem;
     background-color: #15130d;
-    width: 100%;
+    width: 108%;
     text-align: center;
-    height: 60vh;
+    height: 30vh;
     border-radius: 1rem;
-    padding: 1rem;
+    padding: 1.5rem;
     transition: all 0.3s ease-in;
     overflow: hidden;
   }
