@@ -1,0 +1,150 @@
+
+
+
+/* Intro Container */
+#intro {
+  height: calc(100vh - 4rem);
+  width: 100vw;
+  max-width: 75rem;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Background Image */
+.bg {
+  position: absolute;
+  top: 1rem;
+  right: 3rem;
+  z-index: -1;
+  object-fit: cover;
+  height: 100vh;
+  border-radius: 50% 1px / 220px;
+}
+
+/* Intro Content */
+.introContent {
+  height: 100vh;
+  width: 100vw;
+  padding: 2rem;
+  font-size: 3rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Hello Text */
+.hello {
+  font-size: 1.75rem;
+  font-weight: 100;
+}
+
+/* Intro Name */
+.introName {
+  color:#FED7EA;
+}
+
+/* Intro Paragraph */
+.introPara {
+  font-size: medium;
+  font-weight: 100;
+  letter-spacing: 1px;
+  color: white;
+}
+
+/* Button Styles */
+.btn {
+  background: #FED7EA;
+  padding: 0.75rem 1.2rem;
+  border: none;
+  border-radius: 2rem;
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  font-size: medium;
+  cursor: pointer;
+}
+
+/* Button Image */
+.btnImg {
+  margin: 0 0.8rem;
+}
+
+
+.btn:hover{
+  background-color:rgb(30, 30, 30);
+  transition: all 1s ease-in;
+  color: rgb(236, 19, 200);
+  cursor: pointer;
+
+}
+
+
+
+
+
+/* Media Queries for Responsiveness */
+@media only screen and (max-width: 575px) {
+  .introContent {
+    font-size: 9vw;
+    height: 100vh;
+   margin-top: rem;
+    
+    /* line-height: 40px; */
+  }
+
+  .hello {
+    font-size:4.5vw;
+  }
+
+  .bg {
+
+    right: -10vw;
+   /* opacity: 0.1; */
+  
+  }
+
+  .introPara {
+    font-size: 10px;
+    font-weight: 100;
+    color: white;
+
+  }
+
+  .introName {
+    color: rgb(155, 250, 38);
+    /* font-size: 16px; */
+  
+  }
+
+  .btn {
+
+    padding: 0.2rem 1rem;
+    font-size: 12px;
+
+  }
+
+
+  .btnImg {
+    margin: 0 0.1rem;
+  }
+  
+
+
+  /* Add more responsive styles as needed */
+}
+
+/* Add more comments as necessary */
+@media only screen and (max-width: 415px) {
+
+
+  .bg {
+
+    right: -20vw;
+   /* opacity: 0.1; */
+  
+  }
+
+
+}
