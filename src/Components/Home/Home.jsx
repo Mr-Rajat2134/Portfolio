@@ -5,7 +5,7 @@
 import React from 'react'
 import './Home.css'
 import { Link } from 'react-scroll'
-import Profile from '../images/Profile_.png'
+import Profile from '../images/Profile.png'
 import WorkIcon from '@mui/icons-material/Work';
 
 const Home = () => {
