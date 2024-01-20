@@ -19,7 +19,10 @@ const Navbar = () => {
 
   return (
     <div className="navbar">
+      <Link to="intro"  activeClass="active" spy={true} smooth={true} offset={-100} duration={500} >
       <img src={Logo} alt="" width="" className="logo" />
+      </Link>
+
 
       {/* Desktop Menu */}
       <div className={`desktopMenu ${isOpen ? 'open' : ''}`}>
