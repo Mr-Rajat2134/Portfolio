@@ -13,7 +13,11 @@
   top: 0;
   z-index: 3;
   background-color:rgb(3,3,3);
-}
+
+} 
+
+
+
 
 .logo {
   object-fit: cover;
@@ -115,4 +119,11 @@
     display: block;
     cursor: pointer;
   }
+}
+
+
+
+.navbar.scrolling {
+  background-color: #212020;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
