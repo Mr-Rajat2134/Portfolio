@@ -23,9 +23,7 @@ logical abilities.
       <h3>Bachelor of Computer Applications</h3>
       <p>JIWAJI UNIVERSITY</p>
       <span>
-        A small river named Duden flows by their place and supplies it with
-        the necessary regelialia. It is a paradisematic country, in which
-        roasted parts of sentences fly into your mouth.
+      As a proud graduate of Jiwaji University, I have cultivated a strong foundation in [your major or field of study], harnessing both theoretical knowledge and practical skills to excel in my academic pursuits. Throughout my time at Jiwaji University, I embraced diverse learning opportunities, engaged in rigorous coursework, and collaborated with esteemed faculty members and peers.
       </span>
     </div>
     <div className="box">
@@ -33,9 +31,7 @@ logical abilities.
       <h3>Full Stack Developer</h3>
       <p>Mactosys Software Technology pvt. ltd</p>
       <span>
-        A small river named Duden flows by their place and supplies it with
-        the necessary regelialia. It is a paradisematic country, in which
-        roasted parts of sentences fly into your mouth.
+      Trained by Moctosys Company, I'm a full stack developer passionate about crafting immersive digital experiences. With expertise in both front-end and back-end development, I bring a diverse skill set to every project. From elegant user interfaces to robust server-side solutions, I thrive on delivering innovative web solutions that exceed expectations.
       </span>
     </div>
     <div className="box">
@@ -43,9 +39,7 @@ logical abilities.
       <h3>React.js</h3>
       <p>Mactosys Software Technology pvt. ltd</p>
       <span>
-        A small river named Duden flows by their place and supplies it with
-        the necessary regelialia. It is a paradisematic country, in which
-        roasted parts of sentences fly into your mouth.
+      As a React.js developer at Mactosys company, I specialize in crafting dynamic and intuitive user interfaces. With a focus on performance and scalability, I strive to deliver solutions that exceed expectations and drive meaningful impact. Passionate about pushing the boundaries of web development, I'm committed to continuous growth and innovation.
       </span>
     </div>
     <div className="box">
@@ -53,9 +47,12 @@ logical abilities.
       <h3>Master of Computer Application</h3>
       <p>Dr Preeti Global University</p>
       <span>
-        A small river named Duden flows by their place and supplies it with
-        the necessary regelialia. It is a paradisematic country, in which
-        roasted parts of sentences fly into your mouth.
+      Enrolled in Dr. Preeti Global University's MCA program, I'm exploring a spectrum of computer science topics, from programming languages to database management. Through practical projects and extracurricular activities, I'm honing my skills and nurturing a fervent interest in technology. I'm eager to leverage this education to contribute to advancements in the field.
+
+
+
+
+
       </span>
     </div>
   </div>
